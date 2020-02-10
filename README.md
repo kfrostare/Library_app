@@ -1,4 +1,4 @@
-# Library App
+# Library app
 Code pairing: *Pierre Tiberi*, *Karolina Frostare*
 
 ## Work in progress (Code overview)
