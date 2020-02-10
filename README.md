@@ -14,8 +14,6 @@ This program sets the foundation for an app that library staff an visitors can u
 * view checked out books in user account
 * return book to the library
 * send a message if book has passed its return date
-<br>
-<br>
 
 <img src="./Assets/library.jpg" width="400" height="200">
 
